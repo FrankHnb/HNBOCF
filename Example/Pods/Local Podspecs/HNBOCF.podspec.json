@@ -1,0 +1,22 @@
+{
+  "name": "HNBOCF",
+  "version": "0.1.0",
+  "summary": "A short description of HNBOCF.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/hnb/HNBOCF",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hnb": "1056844465@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/hnb/HNBOCF.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HNBOCF/Classes/**/*"
+}

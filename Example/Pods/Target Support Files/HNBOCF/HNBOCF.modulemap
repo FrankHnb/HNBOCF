@@ -1,0 +1,6 @@
+framework module HNBOCF {
+  umbrella header "HNBOCF-umbrella.h"
+
+  export *
+  module * { export * }
+}
