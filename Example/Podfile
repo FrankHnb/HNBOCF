@@ -1,0 +1,6 @@
+use_frameworks!
+target 'HNBOCF_Tests' do
+  pod 'HNBOCF', :path => '../'
+  
+  
+end
